@@ -24,6 +24,16 @@ For example, <a href="https://github.com/003random/getJS" target="_blank">GetJS<
 
 ![Path](https://github.com/housekore/JavaScript-SCAN/blob/main/images/Image02.png)
 
+# What search on .JS links?
+
+### Here are some advantages of bug bounty/bug hunting for sensitive information like API keys and other data in .js files:
+
+* Increased security: By identifying and reporting sensitive information in .js files, security vulnerabilities can be addressed before they are exploited by malicious actors, leading to improved overall security.* 
+* Reduced risk of data breaches: By identifying and mitigating security vulnerabilities, bug bounty/bug hunting can help reduce the risk of data breaches, which can be costly and damaging to an organization.*
+* Rewarding: Bug bounty programs offer rewards for identifying and reporting security vulnerabilities, making it an attractive option for security researchers and hackers. *
+* Helps organizations stay compliant: By identifying sensitive information in .js files, organizations can ensure they are meeting regulatory and compliance requirements, such as GDPR and LGPD.*
+* Improves reputation: By taking proactive steps to identify and address security vulnerabilities, organizations can improve their reputation and build trust with their customers and stakeholders.*
+
 # Support
 You can Follow me on <a href="https://www.linkedin.com/in/jose-jardel-lgpd-cybersecurity/" target="_blank">GetJS</a> or
 
