@@ -35,7 +35,7 @@ For example, <a href="https://github.com/003random/getJS" target="_blank">GetJS<
 * Improves reputation: By taking proactive steps to identify and address security vulnerabilities, organizations can improve their reputation and build trust with their customers and stakeholders.*
 
 # Support
-You can Follow me on <a href="https://www.linkedin.com/in/jose-jardel-lgpd-cybersecurity/" target="_blank">GetJS</a> or
+You can Follow me on <a href="https://www.linkedin.com/in/jose-jardel-lgpd-cybersecurity/" target="_blank">Linkedin</a> or
 
 <a href="https://www.buymeacoffee.com/jjardel"><img src="https://github.com/housekore/JavaScript-SCAN/blob/main/images/buy-coffe.png" alt="jjardel-imagem" width="25%"></a>
 
