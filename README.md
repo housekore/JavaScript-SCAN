@@ -1,7 +1,7 @@
-# JavaScript-SCAN
+# JS-SCAN
  Looking for sensitive data in .js links
 
-# Phase One Enumerate .JS Files
+# Phase One Enumerate .js links
 Use other tools to enumerate .JS files for the domain in question.
 
 For example, <a href="https://github.com/003random/getJS" target="_blank">GetJS</a>
