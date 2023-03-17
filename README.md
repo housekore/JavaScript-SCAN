@@ -22,9 +22,10 @@ For example, <a href="https://github.com/003random/getJS" target="_blank">GetJS<
 * If it finds any parameter based on the regular expression of the regex.txt file (or configured file) it will be informed on the screen.*
 * Results are saved in the same folder for further analysis.*
 
-![Path](https://github.com/housekore/JavaScript-SCAN/blob/main/images/image02.png)
+![Path](https://github.com/housekore/JavaScript-SCAN/blob/main/images/Image02.png)
 
 # Support
 You can Follow me on <a href="https://www.linkedin.com/in/jose-jardel-lgpd-cybersecurity/" target="_blank">GetJS</a> or
 
-[![jjardel-imagem](https://github.com/housekore/JavaScript-SCAN/blob/main/images/buy-coffe.png)](https://www.buymeacoffee.com/jjardel)
+<a href="https://www.buymeacoffee.com/jjardel"><img src="https://github.com/housekore/JavaScript-SCAN/blob/main/images/buy-coffe.png" alt="jjardel-imagem" width="25%"></a>
+
