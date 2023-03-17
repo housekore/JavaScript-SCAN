@@ -1,9 +1,9 @@
 # JS-SCAN
  Looking for sensitive data in .js links
 
-# Phase One Enumerate Domains and .js links
+# Phase One Enumerate Subdomains and .js links
 * 1 - Use a tool, for example <a href="https://github.com/projectdiscovery/subfinder" target="_blank">SubFinder</a> to enumarate all subdomains 
-* 2-  Use a tool to enumerate .JS files for the domain in question. For example, <a href="https://github.com/003random/getJS" target="_blank">GetJS</a>
+* 2-  Use a tool, for example <a href="https://github.com/003random/getJS" target="_blank">GetJS</a> to enumarete all .JS links.
 
 # Phase Two - Configure findsecrets.py
 ## With a list of links in .JS, it's time to use the tool.
